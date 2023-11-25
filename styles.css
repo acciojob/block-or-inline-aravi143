@@ -1,6 +1,13 @@
 
 /* Your CSS Code here. */
 .divblock {
+  display: inline;
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.div {
   display: block;
   width: 100%;
   border: 1px solid #ccc;
